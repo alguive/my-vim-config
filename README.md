@@ -18,7 +18,7 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 ```
 
 ## 3. Plugin Install
-After Doing the prev steps,, open Vim and execute ***:PluginInstall***.
+After Doing the prev steps, open Vim and execute ***:PluginInstall***.
 
 
 --
